@@ -30,7 +30,6 @@ a:hover {
   background: navy;
   min-height: 30px;
   padding: 10px;
-  position: fixed;
   text-align: center;
 }
 .nav {
@@ -106,7 +105,7 @@ header .profile-image:hover {
 }
 
 .card-experience{
-  margin: 10px;
+  margin: 30px;
   padding: 20px 40px 40px;
   max-width: 1000px;
   text-align: left;
@@ -118,6 +117,7 @@ header .profile-image:hover {
 
 .card-experience:hover {
   border-color: navy;
+  transform: scale(1.1);
 }
 
 .card-image{
