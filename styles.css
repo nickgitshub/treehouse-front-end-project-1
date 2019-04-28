@@ -123,8 +123,6 @@ header .profile-image:hover {
 .card-image{
   margin-top: 10px;
   width:100%;
-  object-fit: cover;
-  height: cover;
 }
 
 ul.skills {
